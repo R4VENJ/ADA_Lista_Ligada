@@ -5,6 +5,10 @@ public class LinkedList {
     private Node tail;
     private int length;
 
+    public LinkedList() {
+
+    }
+
 
     class Node {
         String data;
